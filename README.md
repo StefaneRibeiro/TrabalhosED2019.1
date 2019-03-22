@@ -1,5 +1,7 @@
-# TrabalhosED2019.1
+
 ![](https://avatars3.githubusercontent.com/u/45075651?s=460&v=4)
+
+# TrabalhosED2019.1
 ## 01 - Princesa
 
  * O que você fez<p>
@@ -11,7 +13,7 @@
 * O que tem dificuldade ainda<p>
     * Andar pelo vetor para a esquerda e organizar bem a minha lógica, no código.
 * Quanto tempo levou pra fazer a atividade<p>
-    * Fiz a atividade em dois dias.No primeiro dia, demorei cinco horas e no segundo dia, em torno de quatro horas.
+    * Fiz a atividade em dois dias. No primeiro dia, demorei cinco horas e no segundo dia, em torno de quatro horas.
 
 ## 02 - Queimada
 * O que você fez<p>
@@ -23,4 +25,17 @@
 * O que tem dificuldade ainda<p>
     * Em compreender, em algumas questões, qual a condição de parada, a ação e a recursão que devo usar para resolver cada problema.
 * Quanto tempo levou pra fazer a atividade<p>
-    * Dividi o tempo para concluir o trabalho.Na primeira parte, demorei em torno de três horas e,na segunda, cerca de duas horas.
+    * Dividi o tempo para concluir o trabalho. Na primeira parte, demorei em torno de três horas e,na segunda, cerca de duas horas.
+
+## 03 - Labirinto
+* O que você fez<p>
+    * Fiz a atividade completa.
+*   Com quem e como você fez<p>
+    * Fiz o código baseado no que havia sido explicado em sala, mas tive dificuldade em terminá-lo,então pedi ajuda ao colega de turma, Renato.
+*  O que aprendeu e sabe fazer<p>
+    Aprendi a embaralhar as posições de um vetor aleatoriamente.
+* O que tem dificuldade ainda<p>
+    Ainda tenho dificuldade em entender alguns casos de funções recursivas.
+* Quanto tempo levou pra fazer a atividade<p>
+    * Três dias.
+
