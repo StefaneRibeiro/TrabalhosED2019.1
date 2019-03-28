@@ -30,12 +30,23 @@
 ## 03 - Labirinto
 * O que você fez<p>
     * Fiz a atividade completa.
-*   Com quem e como você fez<p>
+*  Com quem e como você fez<p>
     * Fiz o código baseado no que havia sido explicado em sala, mas tive dificuldade em terminá-lo,então pedi ajuda ao colega de turma, Renato.
-*  O que aprendeu e sabe fazer<p>
+* O que aprendeu e sabe fazer<p>
     Aprendi a embaralhar as posições de um vetor aleatoriamente.
 * O que tem dificuldade ainda<p>
     Ainda tenho dificuldade em entender alguns casos de funções recursivas.
 * Quanto tempo levou pra fazer a atividade<p>
     * Três dias.
-
+## 04 - Fractais
+* O que você fez<p>
+    * Fiz a atividade completa
+* Com quem e como você fez<p>
+    * Utilizei como base os exemplos de códigos feitos em sala. Porém, estava tendo dificuldade em algumas partes, como, por exemplo, na parte dos ângulos, então para esclarecer minhas dúvidas, pedi ajuda ao colega de turma Renato.
+* O que aprendeu e sabe fazer<p>
+    * Aprendi como utilizar algumas funções da biblioteca xpaint de forma conjunta para construir imagens.
+* O que tem dificuldade ainda<p>
+    * Cálculos das posições de x e y.
+* Quanto tempo levou pra fazer a atividade<p>
+    * Árvore: cerca de duas horas e meia.
+    * Outros três fractais: Em torno de 6 horas.
