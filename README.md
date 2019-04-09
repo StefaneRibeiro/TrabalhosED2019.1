@@ -50,3 +50,21 @@
 * Quanto tempo levou pra fazer a atividade<p>
     * Árvore: cerca de duas horas e meia.
     * Outros três fractais: Em torno de 6 horas.
+
+## 05 - Lista Circular
+* O que você fez<p>
+* Com quem e como você fez<p>
+* O que aprendeu e sabe fazer<p>
+* O que tem dificuldade ainda<p>
+* Quanto tempo levou pra fazer a atividade<p>
+## 06 - Ordenação
+* O que você fez<p>
+    * Fiz os algoritmos de ordenação: Bubble, Selection e Insertion, mas não utilizei a biblioteca xvet.h
+* Com quem e como você fez<p>
+    * Fiz sozinha, utilizando os conceitos apresentados em sala e conhecimentos que adquiri no semestre passado. 
+* O que aprendeu e sabe fazer<p>
+    * Aprendi a fazer algoritmos de ordenação mais simples.
+* O que tem dificuldade ainda<p>
+    * Tenho dificuldade, algumas vezes, em passar a lógica pensada anteriormente para o código. 
+* Quanto tempo levou pra fazer a atividade<p>
+    * Cerca de uma hora para cada algoritmo.
