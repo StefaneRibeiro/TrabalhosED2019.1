@@ -72,17 +72,15 @@ int main(){
     for(int i = 1; i < participants; i++)
         insert_left(circular_list, i + 1);
     Node * tmp = circular_list;
-    while(tmp->next->value != chosen)
+    while(tmp->next->value != chosen + 1)
         tmp = tmp->next;
 
     show(circular_list, tmp);
 
     while(tmp->next != tmp){
-        cout << "oi" << endl;
         remove_right(tmp);
         tmp = tmp->next;
         show_ord(tmp, tmp);
     }
-    cout << tmp->value;
-    
+
 }
