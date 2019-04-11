@@ -53,10 +53,15 @@
 
 ## 05 - Lista Circular
 * O que você fez<p>
+    * Fiz apenas a primeira versão da princesa com lista circular.
 * Com quem e como você fez<p>
+    * Após assistir novamente a aula em vídeo, tentei refazer o código mostrado pelo professor em aula, fazendo a alteração de matar a partir do escolhido, tive dificuldade para terminá-lo e, para esclarer minhas dúvidas, pedi ajuda ao professor.
 * O que aprendeu e sabe fazer<p>
+    * Aprendi a criar uma lista circular, mas ainda tenho um pouco de dificuldade.
 * O que tem dificuldade ainda<p>
+    * Em entender ponteiros e realizar ações utilizando os nós da lista.
 * Quanto tempo levou pra fazer a atividade<p>
+    * Cerca de 3 horas no primeiro dia e em torno de 1 hora no segundo dia.
 ## 06 - Ordenação
 * O que você fez<p>
     * Fiz os algoritmos de ordenação: Bubble, Selection e Insertion, mas não utilizei a biblioteca xvet.h
