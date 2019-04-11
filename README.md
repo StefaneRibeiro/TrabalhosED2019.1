@@ -33,9 +33,9 @@
 *  Com quem e como você fez<p>
     * Fiz o código baseado no que havia sido explicado em sala, mas tive dificuldade em terminá-lo,então pedi ajuda ao colega de turma, Renato.
 * O que aprendeu e sabe fazer<p>
-    Aprendi a embaralhar as posições de um vetor aleatoriamente.
+    * Aprendi a embaralhar as posições de um vetor aleatoriamente.
 * O que tem dificuldade ainda<p>
-    Ainda tenho dificuldade em entender alguns casos de funções recursivas.
+    * Ainda tenho dificuldade em entender alguns casos de funções recursivas.
 * Quanto tempo levou pra fazer a atividade<p>
     * Três dias.
 ## 04 - Fractais
