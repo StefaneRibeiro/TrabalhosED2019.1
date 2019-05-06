@@ -73,3 +73,15 @@
     * Tenho dificuldade, algumas vezes, em passar a lógica pensada anteriormente para o código. 
 * Quanto tempo levou pra fazer a atividade<p>
     * Cerca de uma hora para cada algoritmo.
+
+## 07 - Buffer
+* O que você fez<p>
+    * 
+* Com quem e como você fez<p>
+    * 
+* O que aprendeu e sabe fazer<p>
+    *
+* O que tem dificuldade ainda<p>
+    *
+* Quanto tempo levou pra fazer a atividade<p>
+    *
