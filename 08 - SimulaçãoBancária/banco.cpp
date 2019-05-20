@@ -33,21 +33,71 @@ struct Banco{
                 cout << "[]";
             }
         }
-        cout << endl;
+
+        //mostrar fila de entrada
         cout << "in :{ ";
-        auto it = this->fila_entrada.begin();
-        for(it != this->fila_entrada.end(); ++it){
-            cout << (*it)->id << ":" << (*it)->docs << ":" << (*it)->pac;
+        list<Client*>::iterator it;
+        for(it = this->fila_entrada.begin(); it != this->fila_entrada.end(); ++it){
+            cout << (*it)->id << ":" << (*it)->docs << ":" << (*it)->pac << " ";
         }
-        cout << " }" << endl;
-        
+        cout << "}" << endl;
+        //mostrar fila de saida
         cout << "out :{ ";
         while(!this->fila_saida.empty()){
-            cout << this->fila_saida.front()->id << ":" << this->fila_saida.front()->docs << ":" << this->fila_saida.front()->pac;
+            cout << this->fila_saida.front()->id << ":" << this->fila_saida.front()->docs << ":" << this->fila_saida.front()->pac << " ";
             this->fila_saida.pop();
         }
         cout << "}" << endl;
     }
+
+    /*
+para todos os clientes na fila de saida
+    remova cliente do banco
+para todos os caixas
+    se existe um cliente
+        se o cliente tem documentos
+            processe um documento desse cliente
+        senao
+            mova cliente para fila de saida
+    senao
+        se houver clientes na fila de entrada
+            pegue um cliente da fila de entrada
+para todos os clientes da fila de entrada
+    se paciencia maior que zero
+        decremente um na paciencia
+    senao
+        ponha na fila de saida
+    */
+   void bank_simulation(){
+       while(!this->fila_saida.empty()){
+           this->fila_saida.pop();
+       }
+       for(int i = 0; i < this->caixas.size(); i++){
+           if(this->caixas[i] != NULL){
+               if(this->caixas[i]->docs > 0){
+                   this->caixas[i]->docs--;
+               }else{
+                   this->fila_saida.push(this->caixas[i]);
+                   this->caixas[i] = NULL;
+               }
+           }else{
+               if(!this->fila_entrada.empty()){
+                   this->caixas[i] = this->fila_entrada.front();
+                   this->fila_entrada.pop_front();
+               }
+           }
+       }
+       list<Client*>::iterator it;
+       for(it = this->fila_entrada.begin(); it != this->fila_entrada.end(); ++it){
+           if((*it) > 0){
+               (*it)->pac--;
+           }else{
+               this->fila_saida.push((*it));
+               it = this->fila_entrada.erase(it);
+               it--;
+           }
+        }
+   }
 };
 
 int main(){
@@ -73,15 +123,13 @@ int main(){
             }
         }else if(opcao == "show"){
             banco.show_bank();
-            cout << endl;
         }else if(opcao == "in"){
             in >> id >> docs >> pac;
             Client* elem = new Client(id, docs, pac);
             banco.fila_entrada.push_back(elem);
-            cout << endl;
         }else if(opcao == "tic"){
+            banco.bank_simulation();
             tempo++;
-            cout << endl; 
         }else if(opcao == "finish"){
             cout << "received: " << docs_processados << endl;
             cout << "lost: " << docs_perdidos << endl;
