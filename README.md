@@ -74,14 +74,25 @@
 * Quanto tempo levou pra fazer a atividade<p>
     * Cerca de uma hora para cada algoritmo.
 
-## 07 - Buffer
+## 07 - Pathfind
 * O que você fez<p>
-    * 
+    *  Não consegui realizar a atividade. 
 * Com quem e como você fez<p>
-    * 
+    * Tentei refazer o código feito em sala(FloodFill) para adaptá-lo e fazer o Pathfind, mas não consegui.
 * O que aprendeu e sabe fazer<p>
-    *
+    
 * O que tem dificuldade ainda<p>
-    *
+    * Em compreender a forma que o algoritmo deve ser implementado.
 * Quanto tempo levou pra fazer a atividade<p>
-    *
+    
+## 08 - Simulação Bancária
+* O que você fez<p>
+    *  Fiz a atividade completa.
+* Com quem e como você fez<p>
+    * Passei alguns dias estudando sobre as classes vector, list e queue para implemantar o algoritmo, pois estava tendo bastante dificuldade em compreender e utilizar as estruturas no código. Após isso, comecei o algoritmo e pedi ajuda a colegas nas partes que tive dificuldade para entender, podendo, assim, terminar o algoritmo.
+* O que aprendeu e sabe fazer<p>
+    * Aprendi a utilizar algumas funções das classes vector, list e queue, a utilizar o iterador para percorrer uma lista e a trabalhar um pouco melhor com struct em c++.
+* O que tem dificuldade ainda<p>
+    * Em compreender bem ponteiros.
+* Quanto tempo levou pra fazer a atividade<p>
+    * Após o tempo que passei estudando as estruturas, levei cerca de 6 horas para fazer a primeira parte do código e meia hora para fazer a segunda.  
