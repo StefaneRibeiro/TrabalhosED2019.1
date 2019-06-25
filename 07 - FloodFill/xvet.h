@@ -5,6 +5,7 @@
 #include <string.h>
 #include <stdlib.h>
 
+
 static float bar_width = 20; //bar width
 static float yfactor = 1; //multiplicative factor of bar height
 static int begin_partition = 0;
@@ -121,3 +122,4 @@ void _xd_vet_all(int * vet, int size, int * indices, const char * colors){
         _xd_vet_i(vet, size, i);
     }
 }
+
