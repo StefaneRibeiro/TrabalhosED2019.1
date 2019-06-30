@@ -76,7 +76,7 @@ int main(){
         tmp = tmp->next;
 
     show(circular_list, tmp);
-
+    
     while(tmp->next != tmp){
         remove_right(tmp);
         tmp = tmp->next;
