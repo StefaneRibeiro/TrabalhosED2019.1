@@ -74,11 +74,11 @@
 * Quanto tempo levou pra fazer a atividade<p>
     * Cerca de uma hora para cada algoritmo.
 
-## 07 - Pathfind
+## 07 - Pathfinder
 * O que você fez<p>
     *  Não consegui realizar a atividade. 
 * Com quem e como você fez<p>
-    * Tentei refazer o código feito em sala(FloodFill) para adaptá-lo e fazer o Pathfind, mas não consegui.
+    * Iniciei o código novamente e ainda estou tentando terminá-lo.
 * O que aprendeu e sabe fazer<p>
     
 * O que tem dificuldade ainda<p>
@@ -96,3 +96,27 @@
     * Em compreender bem ponteiros.
 * Quanto tempo levou pra fazer a atividade<p>
     * Após o tempo que passei estudando as estruturas, levei cerca de 6 horas para fazer a primeira parte do código e meia hora para fazer a segunda.  
+
+## 09 - Editor de Texto
+* O que você fez<p>
+    *  Fiz a primeira parte da atividade.
+* Com quem e como você fez<p>
+    * Ao estudar em grupo, pedi ajuda de colegas de turma para que eu pudesse entender melhor sobre o que deveria ser feito no trabalho e depois comecei a implementar o algoritmo.
+* O que aprendeu e sabe fazer<p>
+    * Compreendi um pouco melhor o funcionamento de iteradores em listas.
+* O que tem dificuldade ainda<p>
+    * Não consegui implemetar nem a segunda nem a terceira parte.
+* Quanto tempo levou pra fazer a atividade<p>
+    * Cerca de três horas.
+
+## 10 - Exercícios de Árvore
+* O que você fez<p>
+    *  Fiz a atividade completa.
+* Com quem e como você fez<p>
+    * Ao estudar em grupo, tirei algumas dúvidas com colegas de sala, e assim pude implementar os algoritmos.
+* O que aprendeu e sabe fazer<p>
+    * Aprendi um pouco mais sobre estruturas de árvore.
+* O que tem dificuldade ainda<p>
+    * Na resolução de alguns problemas envolvendo o assunto.
+* Quanto tempo levou pra fazer a atividade<p>
+    * Cerca de três horas.
