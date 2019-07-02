@@ -76,15 +76,15 @@
 
 ## 07 - Floodfill (Pathfinder)
 * O que você fez<p>
-    *  Consegui realizar a atividade quase completa, porém ainda não está traçando o caminho corretamente. 
+    *  Consegui realizar a atividade completa. 
 * Com quem e como você fez<p>
-    * Iniciei o código novamente e ainda estou tentando terminá-lo.
+    * Anteriormente não havia conseguido compreender direito como deveria implementar o algoritmo. Porém, revi a video aula que falava sobre o assunto, e comecei a implementá-lo. Tive algumas dificuldades, pedi ajuda ao professor, e, após tentar novamente,consegui implementar boa parte do código, porém, o pathfinder não estava traçando o caminho corretamente ainda, então pedi ajuda a uma colega de turma para tentar encontrar o problema. Após isso, consegui terminar o algoritmo. 
 * O que aprendeu e sabe fazer<p>
-    * ...
+    * Aprendi como implementar o floodfill e pathfinder utilizando a estrutura queue.
 * O que tem dificuldade ainda<p>
-    * Em compreender a forma que o algoritmo deve ser implementado.
+    * Consegui compreender bastante sobre a atividade.
 * Quanto tempo levou pra fazer a atividade<p>
-    * ...
+    * Em três dias dediquei em torno de três horas para concluir a atividade.
 ## 08 - Simulação Bancária
 * O que você fez<p>
     *  Fiz a atividade completa.
