@@ -74,17 +74,17 @@
 * Quanto tempo levou pra fazer a atividade<p>
     * Cerca de uma hora para cada algoritmo.
 
-## 07 - Pathfinder
+## 07 - Floodfill (Pathfinder)
 * O que você fez<p>
-    *  Não consegui realizar a atividade. 
+    *  Consegui realizar a atividade quase completa, porém ainda não está traçando o caminho corretamente. 
 * Com quem e como você fez<p>
     * Iniciei o código novamente e ainda estou tentando terminá-lo.
 * O que aprendeu e sabe fazer<p>
-    
+    * ...
 * O que tem dificuldade ainda<p>
     * Em compreender a forma que o algoritmo deve ser implementado.
 * Quanto tempo levou pra fazer a atividade<p>
-    
+    * ...
 ## 08 - Simulação Bancária
 * O que você fez<p>
     *  Fiz a atividade completa.
